@@ -11,4 +11,8 @@ typst c {filename}
 
 ```
 
-this will create pdfs which you can print, fold across the dotted line and glue
+this will create pdfs which you can print, fold across the dotted line and glue.
+
+Finally, you can manually compile the style guide which have the colour codes and meanings for each box.
+
+
