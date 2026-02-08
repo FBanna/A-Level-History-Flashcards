@@ -10,7 +10,7 @@
   cols: (
     {
       rect(
-        fill: _legal
+        fill: _politic
       )[
         = Napoleonic Codes - Codification
         - 1800- Civil Law committee established - lawyers; 2 from north (customary law) and 2 from south (Roman Law)
@@ -58,7 +58,7 @@
       ]
 
       rect(
-        fill: _legal
+        fill: _politic
       )[
         = Administration of Justice
         - Only local magistrates continued to be directly elected

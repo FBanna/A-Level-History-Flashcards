@@ -15,7 +15,7 @@
   cols: (
     {
       rect(
-        fill: _rebel
+        fill: _conflict
       )[
         = Infernal Machine - 24th Dec 1800 - NEEDS CHANGE
         - attempted assassination attempt by bomb - 52 injured
@@ -66,7 +66,7 @@
     {
 
       rect(
-        fill: _rebel
+        fill: _conflict
       )[
         = Repression
 

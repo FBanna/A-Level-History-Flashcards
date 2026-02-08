@@ -15,7 +15,7 @@
   cols: (
     {
       rect(
-        fill: _rebel
+        fill: _conflict
       )[
         = Coup of Brumaire 
         - After Sieyes's failed coup with General Joubert (killed in action before they could do it) Napoleon return- Oct 1799

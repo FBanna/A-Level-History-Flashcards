@@ -19,7 +19,7 @@
       ]
 
       rect(
-        fill: _war
+        fill: _conflict
       )[
         = Napoleon and Italy by 1808
         - Feb 1808 - Ordered occupation of Rome
@@ -32,7 +32,7 @@
       ]
 
       rect(
-        fill: _war
+        fill: _conflict
       )[
         = Weakness of enemies
 

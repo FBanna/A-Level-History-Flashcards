@@ -36,7 +36,7 @@
         
       ]
       rect(
-        fill: _war
+        fill: _conflict
       )[
         = Impact of war
         - Paid for wars through, tax, theft, loans & selling land eg. Louisiana to USA: 1803 for 15 mil francs + 18mil debts
@@ -67,7 +67,7 @@
       ]
 
       rect(
-        fill: _war
+        fill: _conflict
       )[
         = Continental System
         - Boycott British trade & those that trade with Britain

@@ -31,27 +31,27 @@
         
         
 
-        #text(fill: _war)[#sym.square.filled.big] = War
-
-        #text(fill: _rebel)[#sym.square.filled.big] = Rebellion
-
-        #text(fill: _social)[#sym.square.filled.big] = Social
-
-        #text(fill: _economy)[#sym.square.filled.big] = Economy
-
-        #text(fill: _finance)[#sym.square.filled.big] = Finance
-      ],
-
-      [
-        #text(fill: _religion)[#sym.square.filled.big] = Religion
+        #text(fill: _conflict)[#sym.square.filled.big] = Conflict
 
         #text(fill: _foreign)[#sym.square.filled.big] = Foreign Relations
 
-        #text(fill: _politic)[#sym.square.filled.big] = Politics
+        #text(fill: _social)[#sym.square.filled.big] = Social
 
-        #text(fill: _legal)[#sym.square.filled.big] = Legal
+        #text(fill: _finance)[#sym.square.filled.big] = Finance
+
+        
+
+        
+      ],
+
+      [
+        #text(fill: _economy)[#sym.square.filled.big] = Economy
 
         #text(fill: _admin)[#sym.square.filled.big] = Administrative
+
+        #text(fill: _politic)[#sym.square.filled.big] = Politics
+
+        #text(fill: _religion)[#sym.square.filled.big] = Religion
 
         #text(fill: _misc)[#sym.square.filled.big] = Other/Varied
       ]

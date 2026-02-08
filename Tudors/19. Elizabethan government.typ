@@ -39,7 +39,7 @@
         - Earl Of Essex
           - Privileged, reckless, vain, but Liz's favourite courtier
           #rect(
-            fill: _rebel,
+            fill: _conflict,
             outset: 1pt,
             inset: 2pt
           )[
@@ -66,7 +66,7 @@
       ]
 
       rect(
-        fill: _legal
+        fill: _politic
       )[
         = Parliament - passed 438 acts, 60 blocked         
         - Successes:

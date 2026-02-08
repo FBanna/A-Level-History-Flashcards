@@ -1,16 +1,14 @@
 
-#let _war =       rgb("#ffa3a3")
-#let _rebel =     rgb("#ffc89c")
-#let _social =    rgb("#fdeda3")
+#let _conflict =  rgb("#ffa3a3")
+#let _foreign =   rgb("#fdb58c")
+#let _social =    rgb("#fffab0")
+#let _finance =   rgb("#fde171")
+
 #let _economy =   rgb("#b8ff97")
-#let _finance =   rgb("#aeffff")
-
-
+#let _admin =     rgb("#9bfcff")
+#let _politic =   rgb("#93a3ff")
 #let _religion =  rgb("#d497fd")
-#let _foreign =   rgb("#acb4ff")
-#let _politic =   rgb("#baddff")
-#let _legal =     rgb("#bbfdec")
-#let _admin =     rgb("#d8fdcf")
+
 #let _misc =      rgb("#e9e9e9")
 
 #let flash(
