@@ -3,8 +3,8 @@
 
 #show: doc => flash(
   subject: [French Revolution],
-  topic: [The army and conquest during the Empire],
-  number: [21],
+  topic: [Control of the Empire],
+  number: [22],
   fill: rgb("#f37d7d"),
   widths: (50%, 50%),
   cols: (
