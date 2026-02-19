@@ -26,7 +26,7 @@
         - Succession went smoothly, Nicholas Heath shared his support by announcing his support to Parliament
         - Inherited:
           - Debt of £300,000 #h(1fr) - Bad Havests and Inflation
-          - Loss of Calais #h(1fr) - French troops in Scotland
+          - Loss of Calais - 1558 #h(1fr) - French troops in Scotland
         - William Cecil appointed Principal Secretary lasting over 40 years in service
         - 15th Jan - Coronation came quickly, within 2 months
         - Count Feria (Spanish ambassador) came days before the death and tried to get a marriage with Philip II, nothing happened showing that he did not want to interfere 
