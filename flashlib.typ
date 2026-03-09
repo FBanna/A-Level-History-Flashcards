@@ -59,6 +59,11 @@
     width: 100%
   )
 
+
+  show "->": [#box(width: 7pt)[#move(dx: -1pt)[#scale(x: 80%)[*#sym.arrow.r*]]]]
+
+  show "<-": [#box(width: 7pt)[#move(dx: -1pt)[#scale(x: 80%)[*#sym.arrow.l*]]]]
+
   //set block(spacing: 5pt)
 
   

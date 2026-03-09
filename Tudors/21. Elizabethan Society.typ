@@ -1,11 +1,6 @@
 
 #import "../flashlib.typ": *
 
-#show "->": [#box(width: 7pt)[#move(dx: -1pt)[#scale(x: 80%)[*#sym.arrow.r*]]]]
-
-#show "<-": [#box(width: 7pt)[#move(dx: -1pt)[#scale(x: 80%)[*#sym.arrow.l*]]]]
-
-
 #show: doc => flash(
   subject: [Tudors],
   topic: [Elizabethan Society],
