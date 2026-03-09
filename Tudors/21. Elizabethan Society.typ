@@ -14,9 +14,9 @@
       )[
 
         #set block(spacing: 6pt)
-        #underline[*Northern Rebellion - 1569-70*]
+        #underline[*Northern Rebellion - 1569-70*] <\- religion & trad. roles
         - Northern Nobility: Duke of Norfolk, Earl of Sussex, Earl of Northumberland, Earl of Westmoreland<\- all executed
-        - Seized Durham city by 14th November
+        - Seized Durham city by 14th November -> 6k forces
         - Marched to York and back, took Barnard Castle 14th Dec.
         - Nobles fled to Scotland when Crown was informed
         - 70- Northumberland's cousin led rising in Cumberland
