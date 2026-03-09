@@ -10,17 +10,6 @@
   widths: (50%,50%),
   cols: (
     {
-      rect(fill:_economy)[
-
-        = Internal Trade
-        - Increased coal shipping from Tyne to Thames for London
-        - Value of internal trade greater than foreign trade
-        - Fleeing Dutch arrived in England -> brought silk weaving
-        
-      ]
-
-
-
       rect(
         fill: _foreign
       )[
@@ -36,22 +25,38 @@
         #set block(spacing: 5pt)
         = Prosperity
 
-        #underline[Land]
+        #underline[Land] <\- got more land from the dissolution of monasteries
         - land owners benefited due to rising landed incomes
-        - Acquired more land from the dissolution of monasteries
         - More building of comfortable buildings -> belief in peace
         - Improved living standards of farmers <\- Rising prices. - Overall improvement for farmers <\- still bad harvests
 
         #underline[Trade]
         - More ships built
         - After 1550, search for new markets to offset decline in cloth trade
-        - Financial institutions less sophisticated than foreign ones
 
-        #underline[urban]
+        #underline[urban] -> Continued growth of London
         - Some towns declined - Stamford & Winchester
         - Other towns increased - York & Norwich as well as construction of new towns - Manchester & Plymouth
         - Corporate boroughs decline with cloth trade->rural areas
-        - Continued growth of London
+
+
+
+      ]
+
+      rect(
+        fill: _finance
+      )[
+        = Finance
+        #set block(spacing: 5pt)
+
+
+          
+          - revenue increase from £200k -> £300k during reign
+          - successfully financed Spanish war
+          - Left a debt of only £350k
+          - Privy council wiped Mary's debt of £227k
+          - Sold £600k of Crown lands to pay for war
+          - Last 4 P. sessions got increasingly large subsidies
 
 
       ]
@@ -63,9 +68,8 @@
         = External Trade
         - Growing coal trade with France
         - Cloth trade declined with Netherlands
-          - W. Cecil pushed for alternative trading partners in Amsterdam 
+          - W. Cecil pushed for trading partners in Amsterdam 
           - Moved to more Northern Ports in Netherlands
-        - Trade with Russia remained limited
         - Trade with Africa increased through Guinea
           - 1562- John Hawkins, took slaves -> sold in S. America
           - Secured investment from courtiers (1564) & Queen
@@ -79,14 +83,22 @@
         
       ]
 
+      rect(fill:_economy)[
+
+        = Internal Trade <\- Value greater than foreign trade
+        - Increased coal shipping from Tyne to Thames for London
+        - Fleeing Dutch arrived in England -> brought silk weaving
+        
+      ]
+
       rect(
         fill: _economy
       )[
-        = Economic Condition
-        - Economic policy was mixed, reacted ad hoc
+        = Economic Policy
+        - Economic policy was mixed, reactions were ad hoc
         - Sometimes passed futile legislation-> Statute of Artificers
         - Main priority was to maintain public order
-        - Commerical expansion aided by founding companies helping landed and commerical elites
+        - commercial expansion helped landed & commerical elites
       ]
 
       
