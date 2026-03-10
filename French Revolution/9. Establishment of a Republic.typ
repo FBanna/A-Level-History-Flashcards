@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _1 = rgb("#43abeb")
 #let _1_agree = rgb("#44f3b9")
@@ -30,11 +30,11 @@
 }
 
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [French Revolution],
   topic: [Establishment of a Republic],
   number: [9],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {
@@ -46,7 +46,7 @@
         - 22 sept 1792: new convention says France is a republic
         - Jacobins(radical) & Girondins(cautious) disagreed on matters. 
 
-        #flashlib.flashcol(
+        #flashcol(
           100%,
           2,
           {

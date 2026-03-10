@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _1 = rgb("#fd5e5e")
 #let _class = rgb("#ff8484")
@@ -16,11 +16,11 @@
 #let _6 = rgb("#a96df7")
 
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Society under Henry VIII],
   number: [10],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {
@@ -77,7 +77,7 @@
         = Unification
 
         #rect(inset: 2pt)[
-          #flashlib.flashcol(
+          #flashcol(
             100%,
             2,
             [

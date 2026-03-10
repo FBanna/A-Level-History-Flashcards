@@ -10,7 +10,7 @@
   subject: [Tudors],
   topic: [Elizabethan Foreign Relations \ Succession, Scotland & Dutch Revolt],
   number: [20.1],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

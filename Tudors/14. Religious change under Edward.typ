@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 
 
@@ -14,11 +14,11 @@
 
 
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Religion during Edward VI's Reign],
   number: [14],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

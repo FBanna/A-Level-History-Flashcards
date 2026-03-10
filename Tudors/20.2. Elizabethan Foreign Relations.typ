@@ -11,7 +11,7 @@
   subject: [Tudors],
   topic: [Elizabethan Foreign Relations \ Spain, France & Exploration],
   number: [20.2],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

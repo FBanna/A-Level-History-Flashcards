@@ -5,7 +5,7 @@
   subject: [Tudors],
   topic: [Elizabethan government],
   number: [19],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

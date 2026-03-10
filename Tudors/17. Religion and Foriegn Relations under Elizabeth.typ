@@ -5,7 +5,7 @@
   subject: [Tudors],
   topic: [Elizabeth I's Ascension and Religion],
   number: [17],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

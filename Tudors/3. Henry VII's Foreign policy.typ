@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 
 #let _1 = rgb("#7de5ec")
@@ -11,11 +11,11 @@
 #let _ireland = rgb("#66aa77")
 #let _other = rgb("#df6aba")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Henry VII's Foreign Policy],
   number: [3],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%, 50%),
   cols: (
 
@@ -32,7 +32,7 @@
           #align(
           center,
           [
-            #flashlib.flashcol(
+            #flashcol(
               100%,
               3,
               [

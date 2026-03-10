@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _3 = rgb("#f86f6f")
 #let _4 = rgb("#f18686")
@@ -9,11 +9,11 @@
 #let _8 = rgb("#c2ff86")
 #let _9 = rgb("#eb51ff")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Henry VIII, Governemnt, Cromwell, Anne and Katherine],
   number: [8.2],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {
@@ -100,7 +100,7 @@
       )[
         = Securing Succession in the 1500s
 
-        #flashlib.flashcol(
+        #flashcol(
           100%,
           2
         )[

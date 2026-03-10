@@ -5,7 +5,7 @@
   subject: [Tudors],
   topic: [The Impact of the Early Years of Elizabeth's rule],
   number: [18],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {

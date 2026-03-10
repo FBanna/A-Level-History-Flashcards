@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _1 = rgb("#f1a84e")
 #let _2 = rgb("#eeba72")
@@ -11,11 +11,11 @@
 #let _6_1 = _6.mix(rgb("#ffc4f2"))
 #let _7 = rgb("#e591ff")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [French Revolution],
   topic: [Reaction to Change],
   number: [7],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {
@@ -26,7 +26,7 @@
       )[
         = Political Clubs <\- very influential
 
-        #flashlib.flashcol(
+        #flashcol(
           100%,
           2,
           [

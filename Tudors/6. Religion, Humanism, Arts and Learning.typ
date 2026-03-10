@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ":*
 
 #let _1 = rgb("#ffc289")
 #let _2 = rgb("#ccf190")
@@ -13,11 +13,11 @@
 #let _7 = rgb("#f778ad")
 
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Religion, Humanism, Arts and Learning],
   number: [6],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%, 50%),
   cols: (
     {
@@ -65,7 +65,7 @@
           - recruited locally, often monks used to be fairly wealthy 
         ]
 
-        #flashlib.flashcol(
+        #flashcol(
           100%,
           2,
           [

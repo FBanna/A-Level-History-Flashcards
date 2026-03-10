@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let clear = rgb("#00000000")
 #let _bosworth = rgb("#e04242")
@@ -11,11 +11,11 @@
 #let _1 = rgb("#46acec")
 
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Henry VII - Consolidation of Power],
   number: [1],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%, 50%),
   cols: (
     [
@@ -38,7 +38,7 @@
         fill: _pro_border,
         inset: 3pt
       )[
-        #flashlib.flashcol(
+        #flashcol(
         100%,
         2,
         [

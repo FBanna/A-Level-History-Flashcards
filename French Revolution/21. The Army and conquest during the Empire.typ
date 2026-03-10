@@ -5,7 +5,7 @@
   subject: [French Revolution],
   topic: [The army and conquest during the Empire],
   number: [21],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {

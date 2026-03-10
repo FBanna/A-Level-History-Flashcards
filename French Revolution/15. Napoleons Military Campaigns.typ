@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _1 = rgb("#a3ff8c")
 #let _2 = rgb("#80ff60")
@@ -8,11 +8,11 @@
 #let _4 = rgb("#ff7272")
 #let _5 = rgb("#79caf8")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [French Revolution],
   topic: [Napoleon's Military Campaigns],
   number: [15],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {

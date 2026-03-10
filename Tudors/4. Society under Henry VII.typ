@@ -1,5 +1,4 @@
-
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 #let _1 = rgb("#fde76b")
 #let _2 = rgb("#c593e6")
@@ -9,11 +8,11 @@
 #let _6 = rgb("#e27474")
 #let _7 = rgb("#f55f5f")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [Tudors],
   topic: [Society under Henry VII],
   number: [4],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%, 50%),
   cols: (
     {

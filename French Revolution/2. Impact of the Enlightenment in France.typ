@@ -1,5 +1,5 @@
 
-#import "../flashlib.typ"
+#import "../flashlib.typ": *
 
 
 
@@ -10,11 +10,11 @@
 #let _5 = rgb("#f8b863")
 #let _6 = rgb("#ff6666")
 
-#show: doc => flashlib.flash(
+#show: doc => flash(
   subject: [French Revolution],
   topic: [Impact of the Enlightenment],
   number: [2],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     [
@@ -33,7 +33,7 @@
       )[
 
         = Influential Philosophes
-        #flashlib.flashcol(
+        #flashcol(
           100%,
           2,
           [
@@ -87,7 +87,7 @@
 
     ],
     [
-       #flashlib.flashcol(
+       #flashcol(
         100%,
         2,
         [

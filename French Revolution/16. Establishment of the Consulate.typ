@@ -10,7 +10,7 @@
   subject: [French Revolution],
   topic: [Establishment of the Consulate],
   number: [16],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {

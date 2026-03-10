@@ -1,4 +1,11 @@
 
+// BACKGROUND COLOURS
+
+#let _french_rev = rgb("#f37d7d")
+#let _tudor      = rgb("#dd9fde")
+
+// BOX COLOURS
+
 #let _conflict =  rgb("#ffa3a3")
 #let _foreign =   rgb("#fdb58c")
 #let _social =    rgb("#fffab0")

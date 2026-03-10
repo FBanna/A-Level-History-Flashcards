@@ -5,7 +5,7 @@
   subject: [French Revolution],
   topic: [Legal & Administrative Change under Napoleon],
   number: [19],
-  fill: rgb("#f37d7d"),
+  fill: _french_rev,
   widths: (50%, 50%),
   cols: (
     {

@@ -6,7 +6,7 @@
   subject: [Tudors],
   topic: [Elizabethan Economy],
   number: [22],
-  fill: rgb("#dd9fde"),
+  fill: _tudor,
   widths: (50%,50%),
   cols: (
     {
