@@ -115,18 +115,6 @@
       )[
 
         #{
-          
-          // align(top + left,
-          //   subject
-          // )
-          // align(top + right,
-          //   number
-          // )
-          // 
-          
-          // align(top,
-             
-          // )
 
           place(top)[
             #rect(
