@@ -100,8 +100,8 @@
         = End of 6th Coalition
         - Mar 1814- Treaty of Chaumont- maintain coalition to end
         - 30 Mar 1814- Enters Paris -> Napoleon has to give in
-        - April- Treaty of Fontainebleau -> Napoleon gets Elba
-          - Keep Emperor title + income of £200k
+        - April- Treaty of Fontainebleau
+          - gets Elba + keeps Emperor title + income of £200k
 
       ]
 
