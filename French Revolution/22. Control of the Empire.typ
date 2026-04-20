@@ -14,8 +14,8 @@
       )[
         = Administration
 
-        - Internal - direct control = effective, ralliement introduced
-        - External - allies or satellites = varied control, used locals to run government
+        - *pays reunis*(direct control - rhine) effective VS #sym.arrow.bl
+        - *pays conquis*(satellite - Duchy of Warsaw) + *pays allies* (control varied, used locals to run government - Austria)
         - Napoleon tried to introduced central control; prefects, tax's, police, gendarmes and departments in the empire
         - Recruitment - Needed suitable men, used mixture of men from the territories and French officers. // could add more
         - Gendarmerie set up across empire to remove opposition

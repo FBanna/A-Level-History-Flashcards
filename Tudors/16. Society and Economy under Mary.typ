@@ -24,8 +24,8 @@
         = Economic Change
         - Inflation continued from pop. growth, harvest failures, debasement and the sweating sickness
         - Northumberland's commission set up during Edward
-        - Crown lands reassesed -> +£40k per annum
-        - Consolidate finance under Court of Excheque. eg. court of first fruits and tengths & court of Augmentations
+        - Crown lands reassessed -> +£40k per annum
+        - Consolidate finance under Court of Exchequer eg. court of first fruits and tengths & court of Augmentations
         - Revaluate debts. eg. £7497 from Thoms Egerton
         - No new tax proposed by Edward, so royal debt grew
         - New Book of Rates BUT implemented under Elizabeth

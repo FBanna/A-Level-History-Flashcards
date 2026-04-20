@@ -3,7 +3,7 @@
 
 #show: doc => flash(
   subject: [French Revolution],
-  topic: [Challenges to the Empire #linebreak() Peninsula + Continental System],
+  topic: [Challenges to the Empire #linebreak() Peninsula + Austria],
   number: [23.1],
   fill: _french_rev,
   widths: (50%, 50%),
@@ -19,8 +19,9 @@
         - Spain had been a French ally (except 05-07 - Trafalgar)
         - 1807- Sp - Fr alliance against Portugal<\- Continental sys!
         - Took Lisbon 1807 - Portuguese royal family fled
-        - March 1808 -Attempted coup by Ferdinand(Chales' son)
-          - Mar-May sent 100k french in to expel Charles
+        - March 1808 - Napoleon leads coup using Ferdinand (Chales' son) + 100k French -> Charles abdicated- March
+        // - March 1808 -Attempted coup by 
+        //   - Mar-May sent 100k french in to expel Charles
 
       ]
 
@@ -55,7 +56,7 @@
           - uses series of forts & Lines of Torres Vedras
         - Fr Generals could not defeat Britain -> Spanish Ulcer
         - 1813 - Wellesley takes Madrid after Battle of Victoria
-        - Fr defeat @ Toulon (1814) + Joseph flees Spain
+        - Fr defeat @ Toulouse (1814) + Joseph flees Spain
       ]
 
       

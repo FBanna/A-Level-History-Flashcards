@@ -3,7 +3,7 @@
 
 #show: doc => flash(
   subject: [French Revolution],
-  topic: [Challenges to the Empire #linebreak() Austria + Russia],
+  topic: [Challenges to the Empire #linebreak() Continental System + Russia],
   number: [23.2],
   fill: _french_rev,
   widths: (50%, 50%),
@@ -82,7 +82,7 @@
       )[
         = War of 6th Coalition <\- caused by Russian campaign
         // - Prussia forced to join Russian campaign, signs all to stop France. reformed after Battle of Jena by Stein
-        - Apr 1813- Fr with army of 225k declares war on Prussia
+        - Apr 1813- Fr with army of 250k declares war on Prussia
           - 3 victories including at Bautzen
           - Failed to follow Prussian retreat <\- weak cavalry (Ru)
         - Oct 1813- Battle of the Nations (Leipzig)
