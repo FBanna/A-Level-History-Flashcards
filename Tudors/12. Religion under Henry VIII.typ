@@ -47,7 +47,7 @@
         = Early Changes
         - 1536: 10 articles, only 3 sacraments, lots of protestant influence, some catholic = veneration of images
         - Act Abrogating Holy Days, improve harvest efficiency, lots of anger especially in Lincolnshire rebellion
-        - 1536: Injunctions, inforced 10 articles, required English Bibles, removed Pope influence
+        - 1536: Injunctions, inforced 10 articles, required English Bibles, removed Pope influence & culture
         - 1537: Bishops Book, Very Divided, brought back 7 sacraments, BUT forbade images => Shrines destroyed. 
         - 1538: Injunctions, images evil (even candles), more Eng
       ]
@@ -57,10 +57,11 @@
         fill: _4
       )[
         = Later Changes - U turn
+        - 1539: Great Bible - used as propaganda of King influence
         - 1539: 6 articles, brought back Transubstantiation, very similar to before the reforms, just popeless
         - 1540: Overthrow of Cromwell <\- down with reformer
         - 1543: Kings Book, replaced Bishops Book, brought back sacraments, images. restricted bible reading gentleman +
-        - 1543: Marrys Catherine Parr <\- reformer
+        - 1543: Maries Catherine Parr <\- reformer
       ]
 
       rect(
@@ -76,6 +77,12 @@
         - £1.3 mil collected by Henry's death.
         - 1547: 2/3 of the land had been sold
         - only resluted in short term profit for war but in the end was a net loss of income for the Crown
+      ]
+      
+      rect(
+        fill: _admin
+      )[
+        - 1536 - Creation of Court of Augmentations, administer dissolution of the monasteries
       ]
     }
   )
