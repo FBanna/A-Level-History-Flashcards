@@ -95,7 +95,7 @@
         - Duke of Parma begins invasion for Spain -> Liz does:
           - Supports Portuguese pretender (Don Antonio), Portuguese navy seized by Spain!
           - knighted Francis Duke, circumnavigates Earth
-        - After 1800 - Parma only has 2 provinces left to take & William Orange(leader of Dutch revolt) assassinated 1584
+        - After 1580 - Parma only has 2 provinces left to take & William Orange(leader of Dutch revolt) assassinated 1584
         - 1584- Treaty of Joinville- Spain + French Catholic League
           - Guise family in Catholic League - Philip II now had no reason to not support Mary QoS
         - 1585- Treaty of Nonsuch - caused by treaty of Joinville
